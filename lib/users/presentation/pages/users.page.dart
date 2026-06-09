@@ -4,8 +4,6 @@ import 'package:bloc_users_demo/users/domain/usecases/GetUsersUseCase.dart';
 import 'package:bloc_users_demo/users/presentation/cubit/UsersCubit.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutter_modular/flutter_modular.dart';
-
 import '../cubit/users_state.dart';
 
 class UsersPage extends StatelessWidget {
